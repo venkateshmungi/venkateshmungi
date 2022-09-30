@@ -12,3 +12,5 @@
 - 💬 Ask me about **Machine Learning , AI**
 
 - 📫 How to reach me **venkateshmungi1247@gmail.com**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
