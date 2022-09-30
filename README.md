@@ -11,4 +11,4 @@
 
 - 💬 Ask me about **Machine Learning , AI**
 
-- 📫 How to reach me **gourisankarterlada@gmail.com**
+- 📫 How to reach me **venkateshmungi1247@gmail.com**
