@@ -1,3 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Stringify.me</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+</head>
+
+<body onload="onLoad()">
+
+<div id="maindiv"></div>
+
+
+<script>
+function onLoad(){
+  fetch('profile.json')
+  .then((resp) => resp.json()) 
+  .then(function(profilejson) {
+	  const templateurl  = profilejson.theme.url.replace("github.com", "raw.githubusercontent.com") + "/master/template.html";
+	  fetch(templateurl)
+	  .then((resp) => resp.text()) 
+	  .then(function(template) {
+			document.title = profilejson.basics.name;
+			profilejson.basics.picture_fullpath = profilejson.basics.picture;
+			var __html = Mustache.render(template, profilejson);
+			document.getElementById("maindiv").innerHTML = __html;
+		});
+    });
+}
+
+</script>
+
+</body>
+</html>
 <h1 align="left">Hi 👋, I am Vekatesh Mungi</h1>
 <img src="https://pbs.twimg.com/profile_images/838312650190778373/uhsvbpKW_400x400.jpg">
 <h3 align="left"><i>I am Data scientist with two years of experience and strong presentation and interpersonal skills.</i></h3>
