@@ -2,6 +2,17 @@
 <img src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif"
 
      
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left"><i>I am Data scientist with two years of experience and strong presentation and interpersonal skills.</i></h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
