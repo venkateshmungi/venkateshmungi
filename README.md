@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/venkateshmungi?tab=repositories](https://github.com/venkateshmungi?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/venkateshmungi?tab=repositories](https://github.com/venkateshmungi?tab=repositories), https://www.kaggle.com/venkateshmungi
 
 - 💬 Ask me about **Machine Learning , AI**
 
