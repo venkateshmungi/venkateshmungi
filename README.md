@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I am Vekatesh Mungi</h1>
-<img src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif">
+<img src="[https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif](https://i.gifer.com/J50.gif)">
 <h3 align="left"><i>I am Data scientist with two years of experience and strong presentation and interpersonal skills.</i></h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
