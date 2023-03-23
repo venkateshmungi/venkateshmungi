@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I am Vekatesh Mungi</h1>
-<img src="https://i.gifer.com/J50.gif">
+<img src="https://www.ismartcom.com/hubfs/ai%20gif.gif">
 <h3 align="left"><i>I am Data scientist with two years of experience and strong presentation and interpersonal skills.</i></h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
