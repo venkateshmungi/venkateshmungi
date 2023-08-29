@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I am Vekatesh Mungi</h1>
 <img src="https://www.ismartcom.com/hubfs/ai%20gif.gif">
-<h3 align="left"><i>I am Data scientist with two years of experience and strong presentation and interpersonal skills.</i></h3>
+<h3 align="left"><i>Data Scientist with two years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, Natural Language Processing, data mining algorithms, as well as scripting language, Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.</i></h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
