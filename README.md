@@ -1,6 +1,16 @@
 <h1 align="left">Hi 👋, I am Vekatesh Mungi</h1>
 <img src="https://www.ismartcom.com/hubfs/ai%20gif.gif">
-<h3 align="left"><i>Data Scientist with two years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, Natural Language Processing, data mining algorithms, as well as scripting language, Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.</i></h3>
+<h3 align="left"><i>Data Scientist with two years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, Natural Language Processing, data mining algorithms, as well as scripting language, Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+Work Experience
+Junior Data Scientist
+SocialTek AI ML Business solutions Pvt Ltd, Hyderabad.				          Sep 2021 – Present
+
+•	Collected and processed data from diverse sources, ensuring data quality and consistency. 
+•	Employed effective data cleaning techniques, performed feature engineering, and conducted exploratory data analysis to prepare data for predictive modelling and natural language processing (NLP) tasks.
+•	Developed and implemented machine learning models using programming languages such as Python and leveraged libraries including Scikit-learn, NLTK, TensorFlow, Keras and PyTorch. Applied these models to derive insights and make data-driven decisions.
+•	Develop action plans to mitigate risks in decision making while increasing profitability by leveraging data science.
+•	Conducted experiments to assess model performance and iteratively enhanced accuracy through techniques like hyperparameter tuning and ensembling. Ensured that models met specified requirements and were optimized for superior performance.
+•	Collaborated closely with cross-functional teams, including product managers, software engineers, and data analysts. Effectively communicated and understood business requirements, contributing to the development of innovative solutions that met client needs.</i></h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
