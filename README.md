@@ -3,9 +3,9 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Data Scientist Profile</title>  
+    <title>Data Scientist / AI ML ENgineer</title>  
 </head>  
-<body style="background-image: url('background.jpg'); background-size: cover; background-attachment: fixed;">  
+<body style="background-image: url('https://w0.peakpx.com/wallpaper/981/260/HD-wallpaper-robot-in-a-cafe-ai-art.jpg'); background-size: cover; background-attachment: fixed;">  
     <div style="width: 80%; margin: 40px auto; background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">  
         <div style="display: flex; align-items: center; justify-content: space-between;">  
             <img src="https://w0.peakpx.com/wallpaper/981/260/HD-wallpaper-robot-in-a-cafe-ai-art.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">  
