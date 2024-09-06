@@ -18,9 +18,49 @@ You Can my projects on my github page: https://github.com/venkateshmungi
 
 ## Skills  
 
-* [Skill 1] : Building Chat bots using current framworks like langchain : [![Your Profile Picture](https://js.langchain.com/v0.1/img/brand/wordmark.png)(https://github.com/your-username) 
-* [Skill 2]  
-* [Skill 3]  
+### As a Data Scientist:
+Data Analysis & Visualization:
+
+Proficient in analyzing large datasets using Python (Pandas, NumPy) or R.
+Expertise in data visualization tools like Matplotlib, Seaborn, Plotly, or Tableau.
+Statistical Modeling & Machine Learning:
+
+Strong foundation in statistics, probability, and hypothesis testing.
+Skilled in implementing machine learning algorithms using Scikit-Learn, TensorFlow, or PyTorch.
+Data Wrangling & Feature Engineering:
+
+Extensive experience in cleaning, transforming, and preparing raw data for analysis.
+Proficient in feature selection, extraction, and dimensionality reduction techniques.
+Big Data & Databases:
+
+Experience working with big data tools such as Hadoop, Spark, and cloud platforms like AWS or GCP.
+Proficient in SQL for database querying and management.
+Communication & Storytelling with Data:
+
+Ability to communicate findings through reports, dashboards, and presentations.
+Skilled in translating technical insights into business solutions.
+
+### As a AI and ML Engineer:
+Machine Learning & Deep Learning:
+
+Proficient in building, training, and deploying machine learning models using frameworks like TensorFlow, PyTorch, Keras.
+Expertise in neural networks, computer vision, and NLP models.
+Software Development & Deployment:
+
+Strong understanding of software engineering principles (version control, CI/CD, containerization with Docker, Kubernetes).
+Experience deploying models in production environments using Flask, FastAPI, or cloud services like AWS SageMaker, GCP AI Platform.
+Mathematics & Algorithms:
+
+Solid foundation in linear algebra, calculus, probability, and optimization algorithms.
+Skilled in developing custom algorithms for model improvement and scalability.
+Big Data & Distributed Systems:
+
+Experience in distributed data processing using Apache Spark, Hadoop.
+Proficient in cloud-based tools for large-scale data processing and model training (AWS, GCP, Azure).
+MLOps & Model Monitoring:
+
+Expertise in building ML pipelines, automating model deployment, and model versioning.
+Knowledge of tools like MLflow, Kubeflow, Airflow for end-to-end ML lifecycle management.
 
 ## Connect with Me  
 
