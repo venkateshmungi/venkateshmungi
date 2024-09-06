@@ -15,11 +15,11 @@ I'm excited to share my knowledge, experience, and projects with you on GitHub, 
 
 ## My Projects  
 
-You Can my projects on my github page: https://github.com/venkateshmungi/venkateshmungi/ 
+You Can my projects on my github page: https://github.com/venkateshmungi
 
 ## Skills  
 
-* [Skill 1]  
+* [Skill 1] : Building Chat bots using current framworks like langchain : https://js.langchain.com/v0.1/img/brand/wordmark.png
 * [Skill 2]  
 * [Skill 3]  
 
