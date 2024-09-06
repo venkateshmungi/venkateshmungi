@@ -1,7 +1,7 @@
 # Hi, I'm VENKATESH MUNGI 
 
 
-[![Your Profile Picture](https://picsum.photos/200/300)](https://github.com/your-username)  
+[![Your Profile Picture](https://avatars.githubusercontent.com/u/111694212?v=4)](https://github.com/your-username)  
 [![Background Image](https://w0.peakpx.com/wallpaper/981/260/HD-wallpaper-robot-in-a-cafe-ai-art.jpg)](https://github.com/your-username)
 
 I'm a [Your Profession/Student] with a passion for [Your Interests]. I'm excited to share my projects and experiences with you on GitHub.  
