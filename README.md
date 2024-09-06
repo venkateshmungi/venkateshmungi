@@ -1,43 +1,35 @@
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Website Profile Header</title>  
-    <style>  
-        body {  
-            background-image: url('https://picsum.photos/2000/1000');  
-            background-size: cover;  
-            background-attachment: fixed;  
-        }  
-        .header {  
-            background-color: rgba(0, 0, 0, 0.5);  
-            padding: 20px;  
-            display: flex;  
-            justify-content: space-between;  
-            align-items: center;  
-        }  
-        .profile-picture {  
-            width: 50px;  
-            height: 50px;  
-            border-radius: 50%;  
-            margin-right: 10px;  
-        }  
-    </style>  
-</head>  
-<body>  
-    <div class="header">  
-        <div style="display: flex; align-items: center;">  
-            <img src="https://picsum.photos/200/300" class="profile-picture" alt="Profile Picture">  
-            <h2 style="color: white;">John Doe</h2>  
-        </div>  
-        <nav>  
-            <ul style="list-style: none; display: flex; justify-content: space-between; width: 300px;">  
-                <li><a href="#" style="color: white; text-decoration: none;">Home</a></li>  
-                <li><a href="#" style="color: white; text-decoration: none;">About</a></li>  
-                <li><a href="#" style="color: white; text-decoration: none;">Contact</a></li>  
-            </ul>  
-        </nav>  
-    </div>  
-</body>  
-</html>  
+# Hi, I'm [Your Name]  
+
+[![Your Profile Picture](https://picsum.photos/200/300)](https://github.com/your-username)  
+
+[![Background Image](https://picsum.photos/2000/1000)](https://github.com/your-username)  
+
+I'm a [Your Profession/Student] with a passion for [Your Interests]. I'm excited to share my projects and experiences with you on GitHub.  
+
+## About Me  
+
+* [Your Bio]  
+* [Your Location]  
+* [Your Email]  
+
+## My Projects  
+
+* [Project 1](https://github.com/your-username/project-1)  
+* [Project 2](https://github.com/your-username/project-2)  
+* [Project 3](https://github.com/your-username/project-3)  
+
+## Skills  
+
+* [Skill 1]  
+* [Skill 2]  
+* [Skill 3]  
+
+## Connect with Me  
+
+* [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)  
+* [Your Twitter Profile](https://twitter.com/your-username)  
+* [Your Website](https://your-website.com)  
+
+## GitHub Stats  
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
