@@ -1,6 +1,6 @@
-## About Me
+# ABOUT ME
 
-# Hi, I'm VENKATESH MUNGI 
+## Hi, I'm VENKATESH MUNGI 
 
 
 [![Your Profile Picture](https://avatars.githubusercontent.com/u/111694212?v=4)](https://github.com/your-username)  
@@ -12,17 +12,10 @@ I'm well-versed in the latest advancements in the field, including LLMs, and sta
 
 I'm excited to share my knowledge, experience, and projects with you on GitHub, and collaborate with like-minded individuals who share my passion for data science and AI. Let's explore the possibilities of data-driven innovation together!"
 
-  
-
-* [Your Bio]  
-* [Your Location]  
-* [Your Email]  
 
 ## My Projects  
 
-* [Project 1](https://github.com/your-username/project-1)  
-* [Project 2](https://github.com/your-username/project-2)  
-* [Project 3](https://github.com/your-username/project-3)  
+You Can my projects on my github page: https://github.com/venkateshmungi/venkateshmungi/ 
 
 ## Skills  
 
