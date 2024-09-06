@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+![image](https://github.com/user-attachments/assets/f25def95-0858-4b87-a71f-4f869f218b03)<!DOCTYPE html>  
 <html lang="en">  
 <head>  
     <meta charset="UTF-8">  
@@ -8,7 +8,7 @@
 <body style="background-image: url('background.jpg'); background-size: cover; background-attachment: fixed;">  
     <div style="width: 80%; margin: 40px auto; background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">  
         <div style="display: flex; align-items: center; justify-content: space-between;">  
-            <img src="profile-picture.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">  
+            <img src="https://www.arabianbusiness.com/cloud/2023/06/20/AI-voice.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">  
             <div>  
                 <h1 style="font-size: 36px; margin-bottom: 10px;">John Doe</h1>  
                 <p style="font-size: 18px; margin-bottom: 20px;">Data Scientist</p>  
