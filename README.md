@@ -1,3 +1,5 @@
+## About Me
+
 # Hi, I'm VENKATESH MUNGI 
 
 
@@ -10,7 +12,7 @@ I'm well-versed in the latest advancements in the field, including LLMs, and sta
 
 I'm excited to share my knowledge, experience, and projects with you on GitHub, and collaborate with like-minded individuals who share my passion for data science and AI. Let's explore the possibilities of data-driven innovation together!"
 
-## About Me  
+  
 
 * [Your Bio]  
 * [Your Location]  
