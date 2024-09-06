@@ -1,7 +1,6 @@
 # ABOUT ME
 
-## Hi, I'm VENKATESH MUNGI 
-<h2 style="color: white;">John Doe</h2>
+<h2 style="color: blue;">Hi, I'm VENKATESH MUNGI</h2>
 
 [![Your Profile Picture](https://avatars.githubusercontent.com/u/111694212?v=4)](https://github.com/your-username)  
 
