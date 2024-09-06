@@ -3,27 +3,41 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Website Header</title>  
-    <script src="https://cdn.tailwindcss.com"></script>  
+    <title>Website Profile Header</title>  
     <style>  
-        .nav-link {  
-            @apply text-gray-600 hover:text-gray-900 transition duration-300;  
+        body {  
+            background-image: url('https://picsum.photos/2000/1000');  
+            background-size: cover;  
+            background-attachment: fixed;  
         }  
-        .nav-link.active {  
-            @apply text-gray-900;  
+        .header {  
+            background-color: rgba(0, 0, 0, 0.5);  
+            padding: 20px;  
+            display: flex;  
+            justify-content: space-between;  
+            align-items: center;  
+        }  
+        .profile-picture {  
+            width: 50px;  
+            height: 50px;  
+            border-radius: 50%;  
+            margin-right: 10px;  
         }  
     </style>  
 </head>  
 <body>  
-    <header class="bg-white py-4 shadow-md">  
-        <nav class="container mx-auto flex justify-between items-center">  
-            <a href="#" class="text-2xl font-bold text-gray-900">Logo</a>  
-            <ul class="flex items-center space-x-4">  
-                <li><a href="#" class="nav-link">Home</a></li>  
-                <li><a href="#" class="nav-link">About</a></li>  
-                <li><a href="#" class="nav-link">Contact</a></li>  
+    <div class="header">  
+        <div style="display: flex; align-items: center;">  
+            <img src="https://picsum.photos/200/300" class="profile-picture" alt="Profile Picture">  
+            <h2 style="color: white;">John Doe</h2>  
+        </div>  
+        <nav>  
+            <ul style="list-style: none; display: flex; justify-content: space-between; width: 300px;">  
+                <li><a href="#" style="color: white; text-decoration: none;">Home</a></li>  
+                <li><a href="#" style="color: white; text-decoration: none;">About</a></li>  
+                <li><a href="#" style="color: white; text-decoration: none;">Contact</a></li>  
             </ul>  
         </nav>  
-    </header>  
+    </div>  
 </body>  
 </html>  
