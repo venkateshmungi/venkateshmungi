@@ -3,79 +3,41 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>GitHub Profile Page</title>  
+    <title>Data Scientist Profile</title>  
 </head>  
-<body>  
-    <header>  
-        <nav>  
-            <ul>  
-                <li><a href="#home">Home</a></li>  
-                <li><a href="#repositories">Repositories</a></li>  
-                <li><a href="#activity">Activity</a></li>  
-                <li><a href="#profile">Profile</a></li>  
-            </ul>  
-        </nav>  
-    </header>  
-    <main>  
-        <section id="home">  
-            <h1>GitHub Profile Page</h1>  
-            <p>Welcome to my GitHub profile page!</p>  
-        </section>  
-        <section id="repositories">  
-            <h2>Repositories</h2>  
-            <ul>  
-                <li>  
-                    <h3>Repository 1</h3>  
-                    <p>This is a description of repository 1.</p>  
-                </li>  
-                <li>  
-                    <h3>Repository 2</h3>  
-                    <p>This is a description of repository 2.</p>  
-                </li>  
-            </ul>  
-        </section>  
-        <section id="activity">  
-            <h2>Activity</h2>  
-            <ul>  
-                <li>  
-                    <h3>Activity 1</h3>  
-                    <p>This is a description of activity 1.</p>  
-                </li>  
-                <li>  
-                    <h3>Activity 2</h3>  
-                    <p>This is a description of activity 2.</p>  
-                </li>  
-            </ul>  
-        </section>  
-        <section id="profile">  
-            <h2>Profile</h2>  
-            <table>  
-                <tr>  
-                    <td><img src="profile-picture.jpg" alt="Profile Picture" width="100" height="100"></td>  
-                    <td>  
-                        <h3>Username</h3>  
-                        <p>Bio</p>  
-                        <p>Location</p>  
-                        <p>Joined</p>  
-                    </td>  
-                </tr>  
-            </table>  
-            <table>  
-                <tr>  
-                    <th>Repositories</th>  
-                    <th>Followers</th>  
-                    <th>Following</th>  
-                </tr>  
-                <tr>  
-                    <td>Number of repositories</td>  
-                    <td>Number of followers</td>  
-                    <td>Number of following</td>  
-                </tr>  
-            </table>  
-        </section>  
-    </main>  
-    <footer>  
-        <p>&copy; 2023 GitHub Profile Page</p>  
-    </footer>  
+<body style="background-image: url('background.jpg'); background-size: cover; background-attachment: fixed;">  
+    <div style="width: 80%; margin: 40px auto; background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">  
+        <div style="display: flex; align-items: center; justify-content: space-between;">  
+            <img src="profile-picture.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">  
+            <div>  
+                <h1 style="font-size: 36px; margin-bottom: 10px;">John Doe</h1>  
+                <p style="font-size: 18px; margin-bottom: 20px;">Data Scientist</p>  
+                <p style="font-size: 16px;">Highly motivated and detail-oriented data scientist with a strong background in machine learning and data analysis.</p>  
+            </div>  
+        </div>  
+        <hr style="margin: 20px 0;">  
+        <div style="display: flex; align-items: center; justify-content: space-between;">  
+            <div style="width: 30%;">  
+                <h2 style="font-size: 24px; margin-bottom: 10px;">About Me</h2>  
+                <p style="font-size: 16px;">I have a strong passion for data science and machine learning, and I am always looking for new ways to improve my skills and knowledge.</p>  
+            </div>  
+            <div style="width: 30%;">  
+                <h2 style="font-size: 24px; margin-bottom: 10px;">Skills</h2>  
+                <ul style="list-style: none; padding: 0; margin: 0;">  
+                    <li style="font-size: 16px; margin-bottom: 10px;">Python</li>  
+                    <li style="font-size: 16px; margin-bottom: 10px;">R</li>  
+                    <li style="font-size: 16px; margin-bottom: 10px;">Machine Learning</li>  
+                    <li style="font-size: 16px; margin-bottom: 10px;">Data Analysis</li>  
+                </ul>  
+            </div>  
+            <div style="width: 30%;">  
+                <h2 style="font-size: 24px; margin-bottom: 10px;">Experience</h2>  
+                <ul style="list-style: none; padding: 0; margin: 0;">  
+                    <li style="font-size: 16px; margin-bottom: 10px;">Data Scientist at ABC Company</li>  
+                    <li style="font-size: 16px; margin-bottom: 10px;">Data Analyst at DEF Company</li>  
+                </ul>  
+            </div>  
+        </div>  
+    </div>  
 </body>  
 </html>
