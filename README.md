@@ -1,63 +1,71 @@
+<!-- Centered Heading with Animation -->
 <h1 align="center">Hi there, I'm Venkatesh Mungi 👋</h1>
 
-<!-- Banner Image -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="(https://media.licdn.com/dms/image/v2/D4D12AQGCmJXGMpuD8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688366155271?e=2147483647&v=beta&t=c_aGgfjAGoQFfxx7kXjo6Ka-KKB1ckbfY_UxuJ9jtGQ)" alt="Banner" width="800">
+  <img src="https://your-banner-url.png" alt="Profile Banner" width="800">
 </p>
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&width=500&lines=AI-ML+Engineer+%7C+Data+Scientist+%7C+Tech-Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&width=600&lines=AI-ML+Engineer+%7C+Data+Scientist+%7C+Tech+Innovator;Always+Learning+AI,+ML,+and+Deep+Learning!+🚀" alt="Typing SVG">
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🌟 **About Me**  
 
 - 🔹 **AI Engineer | Data Scientist | ML Engineer**  
-- 🔹 Passionate about **AI, ML, Generative AI, and Deep Learning**  
-- 🔹 Skilled in **Predictive Modeling, RAG-LLMs, NLP, and Computer Vision**  
-- 🔹 Open to collaborations in **AI Research & Projects**  
+- 🔹 Passionate about **AI, ML, Deep Learning, and LLMs**  
+- 🔹 Skilled in **Generative AI, Computer Vision, NLP, and Predictive Analytics**  
+- 🔹 Open to **collaborations and research projects**  
 
-📫 **Reach Me At:**  
+💡 _"Transforming Ideas into Intelligent Solutions!"_  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-mungi-320233258)
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-mungi-320233258)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
 [![Blog](https://img.shields.io/badge/BLOG-FF4500?style=for-the-badge&logo=blogger&logoColor=white)](https://bhaarathi-ai.blogspot.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
-## 🔧 Tech Stack  
+## 🔥 **Tech Stack & Tools**  
 
-### **Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-%2323253B?style=for-the-badge&logo=ai&logoColor=white)  
-![LLamaIndex](https://img.shields.io/badge/LLamaIndex-%23793FDF?style=for-the-badge&logo=llama&logoColor=white)  
+### **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-23253B?style=for-the-badge&logo=ai&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F7931E?style=for-the-badge&logo=huggingface&logoColor=white)  
 
 ### **Cloud & Deployment**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
+### **AI & ML Specialties**  
+🔹 **Generative AI** (GPT, LLaMA, Claude, Gemini, Stable Diffusion)  
+🔹 **Deep Learning** (Transformers, CNNs, LSTMs, BERT, YOLO)  
+🔹 **Computer Vision** (OpenCV, FRCNN, Object Detection)  
+🔹 **NLP** (Spacy, NLTK, TextBlob, Hugging Face)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" width="80%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" width="80%">
 </p>
 
 ---
 
-## 📚 Latest Blog Posts  
+## 📝 **Latest Blog Posts**  
+
 <!-- BLOG-POST-LIST:START -->
 - [Bhaarathi AI](https://bhaarathi-ai.blogspot.com/)  
 - [Algorithm Advise](https://algorithmadvise.blogspot.com/)  
@@ -65,11 +73,7 @@
 
 ---
 
-## 📈 Profile Views Counter  
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge)  
+## 🎯 **Fun Fact**  
 
----
-
-## 🎯 Fun Fact  
 ```python
-print("I love turning data into insights and AI magic! 🚀")
+print("I turn data into intelligence and AI magic! 🚀")
