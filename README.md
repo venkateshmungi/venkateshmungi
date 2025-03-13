@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-mungi-320233258)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://about.me/venkateshmungi)
+
 
 ---
 
