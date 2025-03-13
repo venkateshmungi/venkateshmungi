@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-url.png" alt="Banner" width="800">
+  <img src="(https://github.com/venkateshmungi/venkateshmungi/blob/main/Venkatesh_Data_Scientist_AI_ML.pdf)" alt="Banner" width="800">
 </p>
 
 <!-- Typing SVG -->
