@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="(https://img.freepik.com/free-photo/cartoon-ai-robot-scene_23-2151675063.jpg?semt=ais_hybrid)" alt="Banner" width="800">
+  <img src="(https://media.licdn.com/dms/image/v2/D4D12AQGCmJXGMpuD8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688366155271?e=2147483647&v=beta&t=c_aGgfjAGoQFfxx7kXjo6Ka-KKB1ckbfY_UxuJ9jtGQ)" alt="Banner" width="800">
 </p>
 
 <!-- Typing SVG -->
