@@ -61,7 +61,7 @@ Skilled in training deep learning models with CUDA for faster GPU processing, im
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Your Latest Blog Post 1]((https://bhaarathi-ai.blogspot.com/))
+- [bhaarathi-ai](https://bhaarathi-ai.blogspot.com/)
 - 
 - [Your Latest Blog Post 2](https://yourblog.com/post2)
 - 
