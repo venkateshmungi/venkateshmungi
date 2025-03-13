@@ -3,7 +3,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://your-banner-url.png" alt="Profile Banner" width="800">
+  <img src="(https://png.pngtree.com/thumb_back/fh260/background/20230703/pngtree-innovative-medical-technology-3d-rendered-cyborgs-utilizing-graphic-display-to-analyze-image_3770906.jpg)" alt="Profile Banner" width="800">
 </p>
 
 <!-- Typing Animation -->
@@ -48,19 +48,6 @@
 🔹 **Deep Learning** (Transformers, CNNs, LSTMs, BERT, YOLO)  
 🔹 **Computer Vision** (OpenCV, FRCNN, Object Detection)  
 🔹 **NLP** (Spacy, NLTK, TextBlob, Hugging Face)  
-
----
-
-## 📊 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" width="80%">
-</p>
 
 ---
 
