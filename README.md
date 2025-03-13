@@ -1,8 +1,8 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Venkatesh Mungi 👋
 
 ---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&width=500&lines=AI-ML+Engineer+%7C+Machine+Learning+Engineer+%7C+Artificial+Intelligence+Engineer+%7C+Data+Scientist+%7C+Deep+Learning+Engineer+%7C+Generative+AI+%7C+RAG-LLMs" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&width=500&lines=AI+Engineer+%7C+Data+Scientist+%7C+Physics+Lecturer;Passionate+about+ML%2C+CV%2C+and+Deep+Learning" alt="Typing SVG">
 
 🌟 **About Me**  
 🔹 AI Engineer | Data Scientist | Physics Lecturer  
