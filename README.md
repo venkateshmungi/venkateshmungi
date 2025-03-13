@@ -6,8 +6,11 @@
 
 🌟 **About Me**  
 🔹 AI Engineer | Data Scientist | ML Engineer
+
 🔹 Passionate about AI, Machine Learning, Data Science and Generative AI 
+
 🔹 I have expertise in predictive modelling, RAG-LLMs, statistical analysis, natural language processing (NLP), and deeplearning
+
 🔹 Open to collaboration on AI & Research Projects  
 
 📫 **Reach Me At:**  
