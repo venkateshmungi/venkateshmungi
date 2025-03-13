@@ -57,51 +57,14 @@ Skilled in training deep learning models with CUDA for faster GPU processing, im
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="400"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="400"/>
-</td>
-</tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
----
-
-**Tools & Platforms:**  
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="400"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="400"/>
-</td>
-</tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 📰 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post 1](https://yourblog.com/post1)
+
+- [Your Latest Blog Post 1]((https://bhaarathi-ai.blogspot.com/))
+- 
 - [Your Latest Blog Post 2](https://yourblog.com/post2)
+- 
 <!-- BLOG-POST-LIST:END -->
 
 ---
