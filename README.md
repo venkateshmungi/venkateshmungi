@@ -15,8 +15,8 @@
 🔹 Open to collaboration on AI & Research Projects  
 
 📫 **Reach Me At:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-mungi-320233258)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=firefox&logoColor=white)](venkatesh.mungi.datascientist@gmail.com)  
 
 ---
 
@@ -62,9 +62,9 @@ Skilled in training deep learning models with CUDA for faster GPU processing, im
 <!-- BLOG-POST-LIST:START -->
 
 - [bhaarathi-ai](https://bhaarathi-ai.blogspot.com/)
-- 
-- [Your Latest Blog Post 2](https://yourblog.com/post2)
-- 
+  
+- [algorithmadvise](https://algorithmadvise.blogspot.com/)
+  
 <!-- BLOG-POST-LIST:END -->
 
 ---
