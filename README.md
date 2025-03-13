@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="(https://github.com/venkateshmungi/venkateshmungi/blob/main/Venkatesh_Data_Scientist_AI_ML.pdf)" alt="Banner" width="800">
+  <img src="(https://i.pinimg.com/originals/eb/bd/f7/ebbdf7ce4f7f502d1f28b96b5cbd7a1f.gif)" alt="Banner" width="800">
 </p>
 
 <!-- Typing SVG -->
