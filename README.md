@@ -8,7 +8,6 @@
 
 📞 Phone: +91 9676079392
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
 As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming raw data into actionable insights using advanced machine learning, deep learning, and NLP techniques. With 3 years of experience, I have worked on diverse projects ranging from Retrieval-Augmented Generation (RAG) chatbots to AI-driven audio analytics, leveraging cutting-edge technologies to drive innovation.
@@ -39,15 +38,30 @@ Provided actionable insights for optimizing agent-client interactions and improv
 
 ### Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
 
-🔹Developed ML models for predictive analytics, NLP, and deep learning.
+•	Successfully collected and extracted data from diverse sources using a range of scraping tools, ensuring data quality and integrity.
 
-🔹Performed data wrangling, feature engineering, and statistical analysis.
+•	Conducted thorough data cleaning and wrangling processes to transform raw data into a structured and usable format.
 
-🔹Implemented web scraping tools for data acquisition from diverse sources.
+•	Employed advanced techniques for feature extraction and engineering, enhancing the predictive power of machine learning models.
 
-🔹Fine-tuned transformers, CNNs, and RNNs for NLP and computer vision applications.
+•	Utilized statistical analysis to uncover patterns, correlations, and insights within complex datasets, driving informed decision-making.
+
+•	Developed and implemented machine learning models for various business applications, optimizing performance and accuracy.
+
+•	Fine-tuned machine learning models by adjusting hyperparameters, conducting cross-validation, and employing ensemble methods.
+
+•	Applied natural language processing techniques to extract valuable information from unstructured text data, enabling sentiment analysis, topic modelling, and text classification.
+
+•	Built and fine-tuned deep learning models, including neural networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs), for tasks such as image recognition and natural language understanding.
+
+•	Collaborated with cross-functional teams, including data engineers and business stakeholders, to deliver data-driven solutions that aligned with organizational goals.
+
+•	Stayed updated with the latest advancements in data science, attending conferences, participating in online forums, and pursuing continuous learning opportunities.
+
+•	Provided technical guidance and mentorship to data science interns, fostering a collaborative and knowledge-sharing environment.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
+
 🔹 Programming & Data Processing
 
 Python, OOPs, SciPy, NumPy, Pandas, Statistics
@@ -81,8 +95,11 @@ Version Control: Git, GitHub, Bitbucket
 CUDA-GPU Optimization for deep learning model acceleration
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8E%93+Education)](https://git.io/typing-svg)
+
 Master of Computer Applications (M.C.A) - Osmania University
+
 Master of Science (M.Sc.) in Geophysics – Andhra University
+
 Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
