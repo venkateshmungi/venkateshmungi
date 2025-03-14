@@ -1,6 +1,13 @@
 <!-- Centered Heading with Animation -->
 <h1 align="center">Hi there, I'm Venkatesh Mungi 👋</h1>
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 <!-- Animated Banner -->
 <p align="center">
   <img src="(https://png.pngtree.com/thumb_back/fh260/background/20230703/pngtree-innovative-medical-technology-3d-rendered-cyborgs-utilizing-graphic-display-to-analyze-image_3770906.jpg)" alt="Profile Banner" width="800">
