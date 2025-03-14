@@ -1,73 +1,100 @@
-<!-- Centered Heading with Animation -->
-<h1 align="center">Hi there, I'm Venkatesh Mungi 👋</h1>
+🔥 Hi there! I'm Venkatesh Mungi
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+👨‍💻 Data Scientist | AI/ML Engineer | Deep Learning Enthusiast
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="(https://png.pngtree.com/thumb_back/fh260/background/20230703/pngtree-innovative-medical-technology-3d-rendered-cyborgs-utilizing-graphic-display-to-analyze-image_3770906.jpg)" alt="Profile Banner" width="800">
-</p>
+📧 Email: venkatesh.mungi.datascientist@gmail.com📍 Location: Chennai, Tamil Nadu, India📞 Phone: +91 9676079392
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&width=600&lines=AI-ML+Engineer+%7C+Data+Scientist+%7C+Tech+Innovator;Always+Learning+AI,+ML,+and+Deep+Learning!+🚀" alt="Typing SVG">
-</p>
+🚀 About Me
 
----
+As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming raw data into actionable insights using advanced machine learning, deep learning, and NLP techniques. With 3 years of experience, I have worked on diverse projects ranging from Retrieval-Augmented Generation (RAG) chatbots to AI-driven audio analytics, leveraging cutting-edge technologies to drive innovation.
 
-## 🌟 **About Me**  
+🔹 Expertise in predictive modeling, feature engineering, and statistical analysis.🔹 Proficient in LLMs, NLP, deep learning, and generative AI models.🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.🔹 Passionate about open-source contributions and AI research.
 
-- 🔹 **AI Engineer | Data Scientist | ML Engineer**  
-- 🔹 Passionate about **AI, ML, Deep Learning, and LLMs**  
-- 🔹 Skilled in **Generative AI, Computer Vision, NLP, and Predictive Analytics**  
-- 🔹 Open to **collaborations and research projects**  
+💼 Work Experience
 
-💡 _"Transforming Ideas into Intelligent Solutions!"_  
+Machine Learning Engineer / Software Engineer
 
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-mungi-320233258)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![Blog](https://img.shields.io/badge/BLOG-FF4500?style=for-the-badge&logo=blogger&logoColor=white)](https://bhaarathi-ai.blogspot.com/)
+📌 Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)📆 Jan 2024 – Sep 2024
 
----
+🔹 Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
-## 🔥 **Tech Stack & Tools**  
+Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
 
-### **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-23253B?style=for-the-badge&logo=ai&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-F7931E?style=for-the-badge&logo=huggingface&logoColor=white)  
+Processed PDF manuals, embedded text in vector databases, and implemented image retrieval for contextual responses.
 
-### **Cloud & Deployment**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+🔹 Project: Customer Call Audio Analyzer
 
-### **AI & ML Specialties**  
-🔹 **Generative AI** (GPT, LLaMA, Claude, Gemini, Stable Diffusion)  
-🔹 **Deep Learning** (Transformers, CNNs, LSTMs, BERT, YOLO)  
-🔹 **Computer Vision** (OpenCV, FRCNN, Object Detection)  
-🔹 **NLP** (Spacy, NLTK, TextBlob, Hugging Face)  
+Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone, communication skills, and customer satisfaction.
 
----
+Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
-## 📝 **Latest Blog Posts**  
+Junior Data Scientist
 
-<!-- BLOG-POST-LIST:START -->
-- [Bhaarathi AI](https://bhaarathi-ai.blogspot.com/)  
-- [Algorithm Advise](https://algorithmadvise.blogspot.com/)  
-<!-- BLOG-POST-LIST:END -->
+📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
 
----
+Developed ML models for predictive analytics, NLP, and deep learning.
 
-## 🎯 **Fun Fact**  
+Performed data wrangling, feature engineering, and statistical analysis.
 
-```python
-print("I turn data into intelligence and AI magic! 🚀")
+Implemented web scraping tools for data acquisition from diverse sources.
+
+Fine-tuned transformers, CNNs, and RNNs for NLP and computer vision applications.
+
+🛠️ Technical Skills
+
+🔹 Programming & Data Processing
+
+Python, OOPs, SciPy, NumPy, Pandas, Statistics
+
+Data Visualization: Seaborn, Matplotlib, Tableau, SQL
+
+🔹 Machine Learning & AI
+
+ML Frameworks: Scikit-Learn, PyCaret, TensorFlow, Keras, PyTorch
+
+Algorithms: Linear Regression, Random Forest, SVM, K-Means, XGBoost, LGBM
+
+🔹 Deep Learning & NLP
+
+Computer Vision (OpenCV, YOLO, FRCNN), Transformers (BERT, GPT, Llama 2)
+
+NLP Tools: Spacy, NLTK, Gensim, Textblob, Hugging Face
+
+🔹 Cloud & Deployment
+
+Azure ML, AWS Sagemaker, Google Cloud Platform (Vertex AI)
+
+Streamlit, Gradio, Flask for AI app deployment
+
+🔹 Other Tools & Technologies
+
+Web Scraping: BeautifulSoup, Selenium, Scrapy
+
+Version Control: Git, GitHub, Bitbucket
+
+CUDA-GPU Optimization for deep learning model acceleration
+
+🎓 Education
+
+Master of Science (M.Sc.) in Geophysics – Andhra University
+
+Bachelor of Science (B.Sc.) in Computer Science – Andhra University
+
+🏆 Certifications
+
+Mendix Rapid Developer (Low-Code No-Code)
+
+Python 3 Coding Certification (AttainU)
+
+📌 Open-Source Contributions & Projects
+
+✅ Check out my GitHub repositories for hands-on projects in AI, ML, NLP, and Computer Vision: GitHub Profile
+
+🔗 I actively contribute to open-source AI projects and always look for collaboration opportunities!
+
+📫 Let's Connect!
+
+🔹 LinkedIn🔹 GitHub📧 Email: venkatesh.mungi.datascientist@gmail.com
+
+💡 Always eager to learn, innovate, and collaborate on exciting AI/ML projects! 🚀
+
