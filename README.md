@@ -11,7 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
-
 As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming raw data into actionable insights using advanced machine learning, deep learning, and NLP techniques. With 3 years of experience, I have worked on diverse projects ranging from Retrieval-Augmented Generation (RAG) chatbots to AI-driven audio analytics, leveraging cutting-edge technologies to drive innovation.
 
 🔹 Expertise in predictive modeling, feature engineering, and statistical analysis.
@@ -24,7 +23,7 @@ As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
-##Machine Learning Engineer / Software Engineer
+### Machine Learning Engineer / Software Engineer
 
 📌 Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)📆 Jan 2024 – Sep 2024
 
@@ -40,7 +39,7 @@ Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone
 
 Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
-Junior Data Scientist
+### Junior Data Scientist
 
 📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
 
