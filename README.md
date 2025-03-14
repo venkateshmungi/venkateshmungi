@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&size=35&pause=1000&color=284B90&width=435&lines=%F0%9F%94%A5Hi+I'm+VENKATESH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&size=35&pause=1000&color=284B90&width=435&lines=%F0%9F%94%A5Hi!+I'm+VENKATESH)](https://git.io/typing-svg)
 
 👨‍💻 Data Scientist | AI/ML Engineer | Deep Learning Enthusiast
 
-📧 Email: venkatesh.mungi.datascientist@gmail.com📍 Location: Chennai, Tamil Nadu, India📞 Phone: +91 9676079392
+📧 Email: venkatesh.mungi.datascientist@gmail.com
+📍 Location: Hyderabad, Telengana, India
+📞 Phone: +91 9676079392
 
-🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&size=35&pause=1000&color=284B90&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
+
 
 As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming raw data into actionable insights using advanced machine learning, deep learning, and NLP techniques. With 3 years of experience, I have worked on diverse projects ranging from Retrieval-Augmented Generation (RAG) chatbots to AI-driven audio analytics, leveraging cutting-edge technologies to drive innovation.
 
