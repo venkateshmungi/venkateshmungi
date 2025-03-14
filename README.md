@@ -62,37 +62,42 @@ Provided actionable insights for optimizing agent-client interactions and improv
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
 
-🔹 Programming & Data Processing
+##### Cloud Skills
+Azure Machine Learning, AWS Sagemaker, GCP, Git, GitHub, Bitbucket
 
-Python, OOPs, SciPy, NumPy, Pandas, Statistics
+##### Programming Language & Tools
+Python-Procedural, OOPs, SciPy,
+NumPy, Pandas, Statistics
+Data Analysis & Visualization
+Python, Seaborn, Matplotlib
+Tableau, SQL-SMS
+Machine Learning Tools
+LLMs, Langchain, LLamaindex
+Scikit-Learn, PyCaret, TensorFlow,
+Keras, PyTorch, SciPy, Pandas,
+Stats mode, Langchain, LLamaIndex, AutoGen, Google Cloud Platform GCP. Generative AI
+Machine Learning Algorithms
+Linear Regression, Random Forest,
+Logistic Regression, Decision Tree,
+SVM, KNN, K-Means, H-Means,
+Naïve Bayes, XG-Bosst, LGBM
+DL Tools & Frame Works
+TensorFlow, Keras, PyTorch, NLTK
+Spacy, PyCaret, Gensim, Textblob
+Deep Learning Expertise
+OpenCV, Computer Vision, YOLO,
+Natural Language Processing, ANN,
+CNN, LSTM, Transformers, FRCNN,
+BERT, Autoencoders, GANs, LLMs, ChatGPT,Llama 2,Claude 2,Hugging Face, Gemini, Gemma, VertexAI
+Frontend Integration tools
+Streamlit, gradio, Flask
+Web scrapping tools
+BeautifulSoup, Selenium, Scrapy
+CUDA-GPU Deep Learning Expert
+Skilled in training deep learning models
+with CUDA for faster GPU processing, improving efficiency and performance
+in both training and using models.
 
-Data Visualization: Seaborn, Matplotlib, Tableau, SQL
-
-🔹 Machine Learning & AI
-
-ML Frameworks: Scikit-Learn, PyCaret, TensorFlow, Keras, PyTorch
-
-Algorithms: Linear Regression, Random Forest, SVM, K-Means, XGBoost, LGBM
-
-🔹 Deep Learning & NLP
-
-Computer Vision (OpenCV, YOLO, FRCNN), Transformers (BERT, GPT, Llama 2)
-
-NLP Tools: Spacy, NLTK, Gensim, Textblob, Hugging Face
-
-🔹 Cloud & Deployment
-
-Azure ML, AWS Sagemaker, Google Cloud Platform (Vertex AI)
-
-Streamlit, Gradio, Flask for AI app deployment
-
-🔹 Other Tools & Technologies
-
-Web Scraping: BeautifulSoup, Selenium, Scrapy
-
-Version Control: Git, GitHub, Bitbucket
-
-CUDA-GPU Optimization for deep learning model acceleration
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8E%93+Education)](https://git.io/typing-svg)
 
