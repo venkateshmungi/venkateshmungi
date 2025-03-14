@@ -1,6 +1,6 @@
-🔥 Hi there! I'm Venkatesh Mungi
+ I'm Venkatesh Mungi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sanserief&pause=1000&width=435&lines=VENKATESH+MUNGI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sanserief&pause=1000&width=435&lines=🔥+Hi+there!+VENKATESH+MUNGI)](https://git.io/typing-svg)
 
 👨‍💻 Data Scientist | AI/ML Engineer | Deep Learning Enthusiast
 
