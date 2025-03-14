@@ -25,29 +25,27 @@ As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming 
 
 ### Machine Learning Engineer / Software Engineer  -📌 Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)📆 Jan 2024 – Sep 2024
 
-####🔹 Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
+#### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
 Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
 
 Processed PDF manuals, embedded text in vector databases, and implemented image retrieval for contextual responses.
 
-####🔹 Project: Customer Call Audio Analyzer
+#### Project: Customer Call Audio Analyzer
 
 Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone, communication skills, and customer satisfaction.
 
 Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
-### Junior Data Scientist
+### Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
 
-📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
+🔹Developed ML models for predictive analytics, NLP, and deep learning.
 
-Developed ML models for predictive analytics, NLP, and deep learning.
+🔹Performed data wrangling, feature engineering, and statistical analysis.
 
-Performed data wrangling, feature engineering, and statistical analysis.
+🔹Implemented web scraping tools for data acquisition from diverse sources.
 
-Implemented web scraping tools for data acquisition from diverse sources.
-
-Fine-tuned transformers, CNNs, and RNNs for NLP and computer vision applications.
+🔹Fine-tuned transformers, CNNs, and RNNs for NLP and computer vision applications.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
 
