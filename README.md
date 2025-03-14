@@ -9,14 +9,16 @@
 📞 Phone: +91 9676079392
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
-
 
 
 As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming raw data into actionable insights using advanced machine learning, deep learning, and NLP techniques. With 3 years of experience, I have worked on diverse projects ranging from Retrieval-Augmented Generation (RAG) chatbots to AI-driven audio analytics, leveraging cutting-edge technologies to drive innovation.
 
-🔹 Expertise in predictive modeling, feature engineering, and statistical analysis.🔹 Proficient in LLMs, NLP, deep learning, and generative AI models.🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.🔹 Passionate about open-source contributions and AI research.
+🔹 Expertise in predictive modeling, feature engineering, and statistical analysis.
+
+🔹 Proficient in LLMs, NLP, deep learning, and generative AI models.
+
+🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.🔹 Passionate about open-source contributions and AI research.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
