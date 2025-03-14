@@ -48,7 +48,6 @@ Provided actionable insights for optimizing agent-client interactions and improv
 🔹Fine-tuned transformers, CNNs, and RNNs for NLP and computer vision applications.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
-
 🔹 Programming & Data Processing
 
 Python, OOPs, SciPy, NumPy, Pandas, Statistics
@@ -82,9 +81,8 @@ Version Control: Git, GitHub, Bitbucket
 CUDA-GPU Optimization for deep learning model acceleration
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8E%93+Education)](https://git.io/typing-svg)
-
+Master of Computer Applications (M.C.A) - Osmania University
 Master of Science (M.Sc.) in Geophysics – Andhra University
-
 Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
