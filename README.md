@@ -105,14 +105,26 @@ Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
 
-Azure Machine Leaarnin and MLOPs: 
+Azure Machine Leaarnin and MLOPs 
 ![Azure_by_Udemy](https://github.com/user-attachments/assets/3ef9998e-ed0c-4d58-8d3d-f71e0f852580)
 
- 
+Deep Learning Certificate from IBM
+![Deep Learning Certificate from IBM](https://github.com/user-attachments/assets/64557105-f83a-46eb-a5ae-7c64b0f2fd73)
+
+Data Analysis Certificate by Free Code Camp
+![Data Analysis Certificate by Free Code Camp](https://github.com/user-attachments/assets/9baf8918-3b16-4f15-b32e-5cccde7d5571)
 
 Mendix Rapid Developer (Low-Code No-Code)
 
 Python 3 Coding Certification (AttainU)
+![ATTAINU PYTHON CERTIFICATE](https://github.com/user-attachments/assets/6afcf1b6-2617-456a-b709-1d6ea8e04a6d)
+
+MicroSoft_webDevolopment
+![MicroSoft_webDevolopment_page](https://github.com/user-attachments/assets/804b195e-40e2-4476-8a53-4e632a024af7)
+
+Oxford Six Sigma Course Certificate
+![Oxford Six Sigma Course Certificate](https://github.com/user-attachments/assets/cb445e0a-5e51-4340-9e14-a3a35d316a73)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%93%8C+Open-Source+Contributions+%26+Projects)](https://git.io/typing-svg)
 
