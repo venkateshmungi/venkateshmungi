@@ -23,9 +23,7 @@ As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
-### Machine Learning Engineer / Software Engineer
-
-📌 Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)📆 Jan 2024 – Sep 2024
+### Machine Learning Engineer / Software Engineer  -📌 Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)📆 Jan 2024 – Sep 2024
 
 🔹 Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
