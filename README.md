@@ -105,7 +105,8 @@ Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
 
-Azure Machine Leaarnin and MLOPs: ![image](https://github.com/user-attachments/assets/98097818-a6e2-447b-a57c-59a942e09a2a)
+Azure Machine Leaarnin and MLOPs: ![Azure_by_Udemy](https://github.com/user-attachments/assets/3ef9998e-ed0c-4d58-8d3d-f71e0f852580)
+
  
 
 Mendix Rapid Developer (Low-Code No-Code)
