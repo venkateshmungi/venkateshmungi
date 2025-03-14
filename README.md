@@ -115,6 +115,7 @@ Data Analysis Certificate by Free Code Camp
 ![Data Analysis Certificate by Free Code Camp](https://github.com/user-attachments/assets/9baf8918-3b16-4f15-b32e-5cccde7d5571)
 
 Mendix Rapid Developer (Low-Code No-Code)
+![image](https://github.com/user-attachments/assets/451aa480-35db-41e2-8217-3483da77b544)
 
 Python 3 Coding Certification (AttainU)
 ![ATTAINU PYTHON CERTIFICATE](https://github.com/user-attachments/assets/6afcf1b6-2617-456a-b709-1d6ea8e04a6d)
