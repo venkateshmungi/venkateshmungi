@@ -18,7 +18,9 @@ As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming 
 
 🔹 Proficient in LLMs, NLP, deep learning, and generative AI models.
 
-🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.🔹 Passionate about open-source contributions and AI research.
+🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.
+
+🔹 Passionate about open-source contributions and AI research.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
@@ -50,7 +52,7 @@ Implemented web scraping tools for data acquisition from diverse sources.
 
 Fine-tuned transformers, CNNs, and RNNs for NLP and computer vision applications.
 
-🛠️ Technical Skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
 
 🔹 Programming & Data Processing
 
@@ -84,27 +86,31 @@ Version Control: Git, GitHub, Bitbucket
 
 CUDA-GPU Optimization for deep learning model acceleration
 
-🎓 Education
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8E%93+Education)](https://git.io/typing-svg)
 
 Master of Science (M.Sc.) in Geophysics – Andhra University
 
 Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 
-🏆 Certifications
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
 
 Mendix Rapid Developer (Low-Code No-Code)
 
 Python 3 Coding Certification (AttainU)
 
-📌 Open-Source Contributions & Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%93%8C+Open-Source+Contributions+%26+Projects)](https://git.io/typing-svg)
 
 ✅ Check out my GitHub repositories for hands-on projects in AI, ML, NLP, and Computer Vision: GitHub Profile
 
 🔗 I actively contribute to open-source AI projects and always look for collaboration opportunities!
 
-📫 Let's Connect!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%93%AB+Let's+Connect!)](https://git.io/typing-svg)
 
-🔹 LinkedIn🔹 GitHub📧 Email: venkatesh.mungi.datascientist@gmail.com
+🔹 LinkedIn: https://www.linkedin.com/in/venkatesh-mungi-320233258  
+
+🔹 GitHub: https://github.com/venkateshmungi/
+
+📧 Email: venkatesh.mungi.datascientist@gmail.com
 
 💡 Always eager to learn, innovate, and collaborate on exciting AI/ML projects! 🚀
 
