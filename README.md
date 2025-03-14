@@ -1,7 +1,4 @@
- I'm Venkatesh Mungi
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sanserief&pause=1000&width=435&lines=🔥+Hi+there!+I'm+VENKATESH+MUNGI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=900&size=35&pause=1000&color=284B90&width=435&lines=%F0%9F%94%A5Hi+There!+I'm+VENKATESH+MUNGI)](https://git.io/typing-svg)
 👨‍💻 Data Scientist | AI/ML Engineer | Deep Learning Enthusiast
 
 📧 Email: venkatesh.mungi.datascientist@gmail.com📍 Location: Chennai, Tamil Nadu, India📞 Phone: +91 9676079392
