@@ -18,7 +18,7 @@ As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming 
 
 🔹 Expertise in predictive modeling, feature engineering, and statistical analysis.🔹 Proficient in LLMs, NLP, deep learning, and generative AI models.🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.🔹 Passionate about open-source contributions and AI research.
 
-💼 Work Experience
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
 Machine Learning Engineer / Software Engineer
 
