@@ -9,6 +9,7 @@
 📞 Phone: +91 9676079392
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&size=35&pause=1000&color=284B90&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
 
