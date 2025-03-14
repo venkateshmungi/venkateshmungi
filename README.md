@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=Hi!+There+I'm+VENKATESH+MUNGI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%94%A5Hi+there!+I'm+Venkatesh+Mungi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Data+Scientist+%7C+AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast)](https://git.io/typing-svg)
 
 👨‍💻 Data Scientist | AI/ML Engineer | Deep Learning Enthusiast
 
@@ -10,7 +11,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&size=35&pause=1000&color=284B90&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
 
 
