@@ -10,15 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
-As a passionate Data Scientist and AI/ML Engineer, I specialize in transforming raw data into actionable insights using advanced machine learning, deep learning, and NLP techniques. With 3 years of experience, I have worked on diverse projects ranging from Retrieval-Augmented Generation (RAG) chatbots to AI-driven audio analytics, leveraging cutting-edge technologies to drive innovation.
-
-🔹 Expertise in predictive modeling, feature engineering, and statistical analysis.
-
-🔹 Proficient in LLMs, NLP, deep learning, and generative AI models.
-
-🔹 Experience with cloud platforms like Azure ML, AWS Sagemaker, and GCP Vertex AI.
-
-🔹 Passionate about open-source contributions and AI research.
+Machine Learning Engineer with 2.9 years’ experience in developing AI-driven solutions, including Retrieval-Augmented Generation (RAG) frameworks for industry-specific LLM solutions using cloud platforms. Skilled in machine learning, NLP, deep learning, and predictive modelling, with expertise in handling large datasets and data acquisition. Seeking opportunities in AI/ML, data science, to apply expertise in intelligent systems and data-driven decision-making.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
@@ -37,28 +29,29 @@ Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone
 Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
 ### Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
+•	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
+•	Applied traditional machine learning algorithms for various business problems, focusing on data-driven decision-making.
+•	Worked on NLP tasks such as entity recognition and sentiment analysis, leveraging deep learning techniques.
+•	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
 
-•	Successfully collected and extracted data from diverse sources using a range of scraping tools, ensuring data quality and integrity.
+### Desktop Support Engineer – IT - Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) - - Jan 2020 – Aug 2021
 
-•	Conducted thorough data cleaning and wrangling processes to transform raw data into a structured and usable format.
+•	Collected, processed, and analysed healthcare data for cluster-wise reporting. 
 
-•	Employed advanced techniques for feature extraction and engineering, enhancing the predictive power of machine learning models.
+•	Prepared and managed Excel-based reports for data-driven decision-making. 
 
-•	Utilized statistical analysis to uncover patterns, correlations, and insights within complex datasets, driving informed decision-making.
+•	Entered and maintained government health records, ensuring data accuracy. 
 
-•	Developed and implemented machine learning models for various business applications, optimizing performance and accuracy.
+•	Supervised COVID-19 data collection and vaccination progress tracking. 
 
-•	Fine-tuned machine learning models by adjusting hyperparameters, conducting cross-validation, and employing ensemble methods.
+•	Provided actionable insights to higher authorities to enhance vaccination coverage.
 
-•	Applied natural language processing techniques to extract valuable information from unstructured text data, enabling sentiment analysis, topic modelling, and text classification.
+•	Provided technical support for hardware, software, and network-related issues in healthcare facilities. 
 
-•	Built and fine-tuned deep learning models, including neural networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs), for tasks such as image recognition and natural language understanding.
+•	Installed, configured, and maintained IT infrastructure to ensure seamless hospital operations.
 
-•	Collaborated with cross-functional teams, including data engineers and business stakeholders, to deliver data-driven solutions that aligned with organizational goals.
+•	Assisted in IT asset management and user training to enhance operational efficiency.
 
-•	Stayed updated with the latest advancements in data science, attending conferences, participating in online forums, and pursuing continuous learning opportunities.
-
-•	Provided technical guidance and mentorship to data science interns, fostering a collaborative and knowledge-sharing environment.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
 
