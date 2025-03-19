@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
-Machine Learning Engineer with 2.9 years’ experience in developing AI-driven solutions, including Retrieval-Augmented Generation (RAG) frameworks for industry-specific LLM solutions using cloud platforms. Skilled in machine learning, NLP, deep learning, and predictive modelling, with expertise in handling large datasets and data acquisition. Seeking opportunities in AI/ML, data science, to apply expertise in intelligent systems and data-driven decision-making.
+Machine Learning Engineer with 3 years’ experience in developing AI-driven solutions, including Retrieval-Augmented Generation (RAG) frameworks for industry-specific LLM solutions using cloud platforms. Skilled in machine learning, NLP, deep learning, and predictive modelling, with expertise in handling large datasets and data acquisition. Seeking opportunities in AI/ML, data science, to apply expertise in intelligent systems and data-driven decision-making.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
