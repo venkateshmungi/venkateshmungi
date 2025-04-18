@@ -16,7 +16,7 @@ Machine Learning Engineer with 3 years’ experience in developing AI-driven sol
 
 ### 🧠 *Machine Learning Engineer / Software Engineer*  📍 *Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
 
-#### *Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)*
+#### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
 Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
 
