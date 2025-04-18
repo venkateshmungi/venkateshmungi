@@ -14,11 +14,9 @@ Machine Learning Engineer with 3 years’ experience in developing AI-driven sol
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
-### 🧠 **Machine Learning Engineer / Software Engineer**  📍 *Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
+### 🧠 *Machine Learning Engineer / Software Engineer*  📍 *Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
 
-### Machine Learning Engineer / Software Engineer  -📌 Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)📆 Jan 2024 – Sep 2024
-
-#### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
+#### *Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)*
 
 Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
 
@@ -30,13 +28,14 @@ Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone
 
 Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
-### Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd📆 Sep 2021 – Oct 2023
+### *Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd 📆 Sep 2021 – Oct 2023*
+
 •	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
 •	Applied traditional machine learning algorithms for various business problems, focusing on data-driven decision-making.
 •	Worked on NLP tasks such as entity recognition and sentiment analysis, leveraging deep learning techniques.
 •	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
 
-### Desktop Support Engineer – IT - Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) - - Jan 2020 – Aug 2021
+### *Desktop Support Engineer – IT - Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) 📆 Jan 2020 – Aug 2021*
 
 •	Collected, processed, and analysed healthcare data for cluster-wise reporting. 
 
