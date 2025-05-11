@@ -188,7 +188,8 @@ Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
 
-[TATA Data Visualization Certificate (PDF)](https://github.com/user-attachments/files/20150643/TATA._.Data.Visualization.Certificate.pdf)
+TATA _ Data Visualization Certificat
+![TATA _ Data Visualization Certificate](https://github.com/user-attachments/assets/ce74f39c-ac94-47c1-ba7a-5ed5943b12e8)
 
 Azure Machine Leaarnin and MLOPs 
 ![Azure_by_Udemy](https://github.com/user-attachments/assets/3ef9998e-ed0c-4d58-8d3d-f71e0f852580)
