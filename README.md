@@ -189,7 +189,8 @@ Bachelor of Science (B.Sc.) in Computer Science – Andhra University
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%8F%86+Certifications)](https://git.io/typing-svg)
 
 TCS-IQN Master Data Management for Beginners
-[TCS_Masterdata_Management_Certificate.pdf](https://github.com/user-attachments/files/22493341/TCS_Masterdata_Management_Certificate.pdf)
+
+![TCS_Masterdata_Management_Certificate](https://github.com/user-attachments/assets/6903b6d9-1c35-43d5-b889-9230dc1140b1)
 
 TATA _ Data Visualization Certificat
 ![TATA _ Data Visualization Certificate](https://github.com/user-attachments/assets/ce74f39c-ac94-47c1-ba7a-5ed5943b12e8)
