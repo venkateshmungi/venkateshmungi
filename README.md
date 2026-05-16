@@ -17,9 +17,6 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 # 💼 Professional Experience
  
 <div align="center">
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Production%20Grade-blue?style=for-the-badge&logo=openai&logoColor=white)
-![ML Engineer](https://img.shields.io/badge/ML%20Engineer-LLM%20%7C%20RAG%20%7C%20NLP-green?style=for-the-badge&logo=python&logoColor=white)
-![Data Scientist](https://img.shields.io/badge/Data%20Scientist-EDA%20%7C%20Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
  
 </div>
 ---
