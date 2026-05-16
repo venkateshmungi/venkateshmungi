@@ -15,11 +15,11 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
-### Artificial Intelligence (AI) Engineer - Mar 2025– Nov 2025 
+### 🤖 Artificial Intelligence (AI) Engineer 📅 Mar 2025– Nov 2025 
 
 **Entrolabs IT Solutions Pvt Ltd, Hyderabad (Client Govt of Andhra Pradesh)**
 
-**Dr.AI – AP Child Health & Family Welfare AI Assistant**
+*Dr.AI – AP Child Health & Family Welfare AI Assistant*
 
 •	Architected and deployed a production-grade multilingual AI voice assistant (English/Hindi/Telugu) serving 500K+ citizens, reducing manual workload by 50% and improving health service accessibility by 40%
 
@@ -40,7 +40,9 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 •	Designed voice-enabled analytics interface with real-time data visualization, improving data accessibility for 200+ department officials and accelerating decision-making cycles by 60%
 
 
-### 🧠 *Machine Learning Engineer / Software Engineer*  📍 *Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
+### 🧠 *Machine Learning Engineer / Software Engineer*   
+
+*Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
 
 #### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
@@ -54,11 +56,16 @@ Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone
 
 Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
-### *Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd 📆 Sep 2021 – Oct 2023*
+### *Junior Data Scientist*
+
+*SocialTek AI ML Business Solutions Pvt Ltd 📆 Sep 2021 – Oct 2023*
 
 •	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
+
 •	Applied traditional machine learning algorithms for various business problems, focusing on data-driven decision-making.
+
 •	Worked on NLP tasks such as entity recognition and sentiment analysis, leveraging deep learning techniques.
+
 •	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
 
 ### *Desktop Support Engineer – IT - Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) 📆 Jan 2020 – Aug 2021*
