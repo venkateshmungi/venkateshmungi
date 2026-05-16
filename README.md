@@ -13,7 +13,6 @@
 
 Results-driven GenAI Engineer with 3.9 years of experience building and deploying production-grade Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) pipelines, and enterprise-grade generative AI systems. Proven track record delivering high-impact GenAI solutions for government and Fortune clients, driving 40–60% efficiency improvements. Skilled in prompt engineering, LLM orchestration, multilingual NLP, and voice-enabled GenAI applications, with strong expertise in cloud deployment (GCP/Azure) and end-to-end GenAI product lifecycle—from architecture and development to evaluation, monitoring.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
 # 💼 Professional Experience
  
