@@ -1,6 +1,6 @@
 
 ![image](https://media.licdn.com/dms/image/v2/D5603AQFqhvW3s5XOXQ/profile-displayphoto-scale_100_100/B56Zu1zCM0JoAg-/0/1768281614049?e=1780531200&v=beta&t=EBMujFbx5Hh-foVk-khyvsybyCL2HjiMrggX7CsYBKk)
-# MUNGI VENKATESh
+# MUNGI VENKATESH
 ## AiML Engineer (Gen Ai) 
 
 📧 Email: venkatesh.mungi.datascientist@gmail.com
