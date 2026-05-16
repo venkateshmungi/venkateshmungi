@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%94%A5Hi+there!+I'm+Venkatesh+Mungi)](https://git.io/typing-svg)
 
-👨‍💻 Data Scientist | AI/ML Engineer | Deep Learning Enthusiast
+![image](https://media.licdn.com/dms/image/v2/D5603AQFqhvW3s5XOXQ/profile-displayphoto-scale_100_100/B56Zu1zCM0JoAg-/0/1768281614049?e=1780531200&v=beta&t=EBMujFbx5Hh-foVk-khyvsybyCL2HjiMrggX7CsYBKk)
+# MUNGI VENKATESh
+## AiML Engineer (Gen Ai) 
 
 📧 Email: venkatesh.mungi.datascientist@gmail.com
 
@@ -8,9 +9,9 @@
 
 📞 Phone: +91 9676079392
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
+## PROFILE SUMMARY
 
-Machine Learning Engineer with 3 years’ experience in developing AI-driven solutions, including Retrieval-Augmented Generation (RAG) frameworks for industry-specific LLM solutions using cloud platforms. Skilled in machine learning, NLP, deep learning, and predictive modelling, with expertise in handling large datasets and data acquisition. Seeking opportunities in AI/ML, data science, to apply expertise in intelligent systems and data-driven decision-making.
+Results-driven GenAI Engineer with 3.9 years of experience building and deploying production-grade Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) pipelines, and enterprise-grade generative AI systems. Proven track record delivering high-impact GenAI solutions for government and Fortune clients, driving 40–60% efficiency improvements. Skilled in prompt engineering, LLM orchestration, multilingual NLP, and voice-enabled GenAI applications, with strong expertise in cloud deployment (GCP/Azure) and end-to-end GenAI product lifecycle—from architecture and development to evaluation, monitoring.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
@@ -232,4 +233,9 @@ Oxford Six Sigma Course Certificate
 📧 Email: venkatesh.mungi.datascientist@gmail.com
 
 💡 Always eager to learn, innovate, and collaborate on exciting AI/ML projects! 🚀
+
+
+
+
+
 
