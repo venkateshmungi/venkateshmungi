@@ -15,11 +15,11 @@
 ## 🧬 About Me
  
 ```python
-class VenkateshMungi:
+Name: Venkatesh Mungi:
  
     role        = "GenAI / AiML Engineer"
     experience  = "3.9 years"
-    location    = "Hyderabad, Telangana 🇮🇳"
+    location    = "Vijayawada,Andhra Pradesh, 🇮🇳"
  
     expertise   = [
         "Large Language Models (LLMs)",
