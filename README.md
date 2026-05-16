@@ -15,77 +15,127 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%92%BC+Work+Experience)](https://git.io/typing-svg)
 
-### 🤖 Artificial Intelligence (AI) Engineer 📅 Mar 2025– Nov 2025 
-
-**Entrolabs IT Solutions Pvt Ltd, Hyderabad (Client Govt of Andhra Pradesh)**
-
-*Dr.AI – AP Child Health & Family Welfare AI Assistant*
-
-•	Architected and deployed a production-grade multilingual AI voice assistant (English/Hindi/Telugu) serving 500K+ citizens, reducing manual workload by 50% and improving health service accessibility by 40%
-
-•	Engineered a Retrieval-Augmented Generation (RAG) system using IndicSBERT embeddings + FAISS vector database, achieving 92% accuracy in medical query responses with <2s latency
-
-•	Integrated GCP Speech-to-Text and Text-to-Speech APIs with custom acoustic models, reducing transcription error rates by 35% for Indian language accents
-
-•	Built high-performance FastAPI microservices handling 10K+ daily requests with 99.7% uptime, implementing caching and async processing for scalability
-
-•	Automated patient registration and medical receipt generation (PDF), processing 2,000+ daily transactions and eliminating 15 hours/week of manual data entry
-
-**MEPMA Government Data Analysis AI Assistant**
-
-•	Developed an enterprise Natural Language to SQL (NL2SQL) system enabling non-technical government officials to query complex databases using natural language, reducing report generation time from 4 hours to 5 minutes
-
-•	Implemented hybrid LLM approach (Gemini 1.5 + Mistral Codestral) for intelligent query parsing and SQL generation, achieving 88% accuracy on complex multi-table joins
-
-•	Designed voice-enabled analytics interface with real-time data visualization, improving data accessibility for 200+ department officials and accelerating decision-making cycles by 60%
-
-
-### 🧠 *Machine Learning Engineer / Software Engineer*   
-
-*Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
-
-#### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
-
-Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
-
-Processed PDF manuals, embedded text in vector databases, and implemented image retrieval for contextual responses.
-
-#### Project: Customer Call Audio Analyzer
-
-Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone, communication skills, and customer satisfaction.
-
-Provided actionable insights for optimizing agent-client interactions and improving customer experience.
-
-### *Junior Data Scientist*
-
-*SocialTek AI ML Business Solutions Pvt Ltd 📆 Sep 2021 – Oct 2023*
-
-•	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
-
-•	Applied traditional machine learning algorithms for various business problems, focusing on data-driven decision-making.
-
-•	Worked on NLP tasks such as entity recognition and sentiment analysis, leveraging deep learning techniques.
-
-•	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
-
-### *Desktop Support Engineer – IT - Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) 📆 Jan 2020 – Aug 2021*
-
-•	Collected, processed, and analysed healthcare data for cluster-wise reporting. 
-
-•	Prepared and managed Excel-based reports for data-driven decision-making. 
-
-•	Entered and maintained government health records, ensuring data accuracy. 
-
-•	Supervised COVID-19 data collection and vaccination progress tracking. 
-
-•	Provided actionable insights to higher authorities to enhance vaccination coverage.
-
-•	Provided technical support for hardware, software, and network-related issues in healthcare facilities. 
-
-•	Installed, configured, and maintained IT infrastructure to ensure seamless hospital operations.
-
-•	Assisted in IT asset management and user training to enhance operational efficiency.
-
+# 💼 Professional Experience
+ 
+<div align="center">
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Production%20Grade-blue?style=for-the-badge&logo=openai&logoColor=white)
+![ML Engineer](https://img.shields.io/badge/ML%20Engineer-LLM%20%7C%20RAG%20%7C%20NLP-green?style=for-the-badge&logo=python&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data%20Scientist-EDA%20%7C%20Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+ 
+</div>
+---
+ 
+## 🤖 Artificial Intelligence (AI) Engineer
+**Entrolabs IT Solutions Pvt Ltd, Hyderabad**
+`Client: Government of Andhra Pradesh` &nbsp;|&nbsp; 📅 **Mar 2025 – Nov 2025**
+ 
+---
+ 
+### 🏥 Project 1 — Dr.AI: AP Child Health & Family Welfare AI Assistant
+ 
+> *Production-grade multilingual AI voice assistant serving 500K+ citizens across Andhra Pradesh*
+ 
+| Metric | Result |
+|--------|--------|
+| 🧑‍🤝‍🧑 Citizens Served | 500,000+ |
+| ⚡ Manual Workload Reduction | 50% |
+| 🏥 Health Service Accessibility | +40% |
+| 🎯 Medical Query Accuracy | 92% |
+| ⏱️ Response Latency | < 2 seconds |
+| 📈 API Uptime | 99.7% |
+| 📄 Daily Transactions | 2,000+ |
+ 
+**Key Contributions:**
+ 
+- 🗣️ **Multilingual Voice Assistant** — Architected and deployed a production-grade AI assistant supporting English, Hindi & Telugu using GCP Speech-to-Text/TTS APIs with custom acoustic models, reducing transcription errors for Indian accents by **35%**
+- 🔍 **RAG Pipeline** — Engineered a Retrieval-Augmented Generation system with **IndicSBERT embeddings** + **FAISS vector database** for sub-2s medical query responses at 92% accuracy
+- ⚙️ **Microservices Architecture** — Built high-performance **FastAPI** microservices handling **10K+ daily requests** with async processing, caching, and auto-scaling
+- 📋 **Workflow Automation** — Automated patient registration and PDF medical receipt generation, eliminating **15 hours/week** of manual data entry
+**Tech Stack:**
+`FastAPI` `GCP Speech-to-Text` `GCP TTS` `IndicSBERT` `FAISS` `Python` `PDF Automation` `Docker`
+ 
+---
+ 
+### 📊 Project 2 — MEPMA Government Data Analysis AI Assistant
+ 
+> *Enterprise NL2SQL platform enabling natural language queries over complex government databases*
+ 
+| Metric | Result |
+|--------|--------|
+| ⏱️ Report Generation Time | 4 hours → **5 minutes** |
+| 🎯 SQL Generation Accuracy | 88% (complex multi-table joins) |
+| 👥 Officials Empowered | 200+ |
+| 🚀 Decision-Making Speed | +60% |
+ 
+**Key Contributions:**
+ 
+- 💬 **NL2SQL System** — Developed an enterprise natural language to SQL engine using a hybrid **Gemini 1.5 + Mistral Codestral** LLM approach for intelligent query parsing
+- 🎤 **Voice-Enabled Analytics** — Designed a voice interface with real-time data visualization dashboards for non-technical government officials
+- 📉 **Operational Impact** — Slashed report generation from 4 hours to 5 minutes, accelerating decision cycles by 60%
+**Tech Stack:**
+`Gemini 1.5` `Mistral Codestral` `NL2SQL` `Voice UI` `Data Visualization` `Python`
+ 
+---
+ 
+## 🧠 Machine Learning Engineer / Software Engineer
+**Inoble Infoway Pvt Ltd**
+`Client: Mahindra & Mahindra` &nbsp;|&nbsp; 📅 **Jan 2024 – Sep 2024**
+ 
+---
+ 
+### 🔧 Project 1 — Intelligent Query Response System
+ 
+> *RAG-based chatbot achieving 90% accuracy and 95% user satisfaction*
+ 
+- 📚 Developed a **LangChain + Streamlit** chatbot for technical query resolution from PDF manuals
+- 🗃️ Processed and embedded unstructured documentation into vector databases for contextual retrieval
+- 🖼️ Implemented **multimodal image retrieval** for richer, context-aware responses
+**Tech Stack:**
+`LangChain` `Streamlit` `RAG` `Vector DB` `PDF Processing` `Python`
+ 
+---
+ 
+### 📞 Project 2 — Customer Call Audio Analyzer
+ 
+> *AI-powered voice analytics to optimize agent performance and customer experience*
+ 
+- 🔊 Built a voice analysis tool using **GCP Vertex AI** to evaluate agent tone, communication clarity, and CSAT signals
+- 💡 Generated actionable coaching insights to improve customer-agent interaction quality
+**Tech Stack:**
+`GCP Vertex AI` `Speech Analytics` `NLP` `Python`
+ 
+---
+ 
+## 📈 Junior Data Scientist
+**SocialTek AI ML Business Solutions Pvt Ltd** &nbsp;|&nbsp; 📅 **Sep 2021 – Oct 2023**
+ 
+- 🔬 Conducted extensive **EDA, feature engineering**, and data cleaning to surface actionable business insights
+- 🤖 Applied classical ML algorithms across diverse business problem domains with a focus on data-driven decisions
+- 🗂️ Delivered **NLP solutions** — named entity recognition and sentiment analysis — using deep learning techniques
+- 🤝 Collaborated cross-functionally on data solutions while staying at the frontier of AI/ML advancements through self-driven research
+**Tech Stack:**
+`Scikit-learn` `TensorFlow` `NLP` `Pandas` `Matplotlib` `Python`
+ 
+---
+ 
+## 🖥️ Desktop Support Engineer – IT
+**Apollo Hospitals Enterprise Limited**
+`Under UPHC, Govt. of Andhra Pradesh` &nbsp;|&nbsp; 📅 **Jan 2020 – Aug 2021**
+ 
+**Healthcare Data & Operations:**
+- 📊 Collected, processed, and analysed healthcare data for cluster-wise reporting with Excel-based dashboards
+- 🏥 Maintained government health records ensuring data accuracy and compliance
+- 💉 Supervised **COVID-19 data collection** and vaccination progress tracking; delivered insights to authorities to improve coverage
+**IT Infrastructure:**
+- 🔧 Provided technical support for hardware, software, and networking across healthcare facilities
+- 🖧 Installed, configured, and maintained IT infrastructure for seamless hospital operations
+- 📦 Assisted in IT asset management and staff training to enhance operational efficiency
+---
+ 
+<div align="center">
+*Built with precision. Deployed at scale. Driven by impact.*
+ 
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
 
