@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mungi%20Venkatesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20GenAI%20%7C%20LLM%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+GenAI+Engineer+%7C+3.9+Years+Experience;🚀+LLM+%7C+RAG+%7C+Voice+AI+%7C+NLP+Specialist;🏛️+Building+AI+for+Govt+%26+Enterprise+at+Scale;🧠+Turning+Language+into+Impact)](https://git.io/typing-svg)
  
 </div>
 <br/>
@@ -11,7 +10,7 @@
  
 </div>
 <br/>
----
+
  
 ## 🧬 About Me
  
