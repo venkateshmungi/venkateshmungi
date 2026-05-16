@@ -7,11 +7,7 @@
 </div>
 <br/>
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-mungi-320233258)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkateshmungi/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatesh.mungi.datascientist@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9676079392-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Hyderabad,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
  
 </div>
 <br/>
