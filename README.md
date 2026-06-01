@@ -58,7 +58,9 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 •	Designed voice-enabled analytics interface with real-time data visualization, improving data accessibility for 200+ department officials and accelerating decision-making cycles by 60%
 
 
-### 🧠 *Machine Learning Engineer / Software Engineer*  📍 *Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra)*  📅 *Jan 2024 – Sep 2024*
+### Machine Learning Engineer / Software Engineer 
+
+#### Inoble Infoway Pvt Ltd (Client: Mahindra & Mahindra) - Jan 2024 – Sep 2024
 
 #### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
@@ -72,7 +74,9 @@ Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone
 
 Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
-### *Junior Data Scientist -📌 SocialTek AI ML Business Solutions Pvt Ltd 📆 Sep 2021 – Oct 2023*
+### Junior Data Scientist 
+
+#### SocialTek AI ML Business Solutions Pvt Ltd - Sep 2021 – Oct 2023
 
 •	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
 
@@ -82,7 +86,9 @@ Provided actionable insights for optimizing agent-client interactions and improv
 
 •	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
 
-### *Desktop Support Engineer – IT - Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) 📆 Jan 2020 – Aug 2021*
+### Desktop Support Engineer – IT 
+
+#### Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) - Jan 2020 – Aug 2021
 
 •	Collected, processed, and analysed healthcare data for cluster-wise reporting. 
 
