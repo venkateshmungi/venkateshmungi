@@ -1,15 +1,30 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mungi%20Venkatesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ai ML Engineer%20%7C%20Gen AI%20%7C%20 Quantum Computing Enthusiast%20&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-</div>
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,40:1a1a2e,100:0f0c29&height=220&section=header&text=Mungi%20Venkatesh&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20%2F%20ML%20Engineer%20%20%7C%20%20Generative%20AI%20%20%7C%20%20Quantum%20Computing&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=15&pause=1000&color=635BFF&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+from+the+ground+up;GCP+%7C+LLMs+%7C+NLP+%7C+NL2SQL;Open+to+AI%2FML+Engineering+roles+in+India)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A14?style=for-the-badge&logo=linkedin&logoColor=635BFF)](https://linkedin.com/in/YOUR_HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A14?style=for-the-badge&logo=gmail&logoColor=635BFF)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A14?style=for-the-badge&logo=github&logoColor=635BFF)](https://github.com/YOUR_HANDLE)
 
 </div>
-<br/>
-<div align="center">
 
- 
-</div>
-<br/>
+---
+
+```ts
+const mungi = {
+  focus    : ["multilingual FAQ bots", "NL2SQL", "deployed LLM pipelines"],
+  stack    : "GCP · Python · LangChain · FastAPI · PostgreSQL",
+  open_to  : "AI / ML Engineering roles — India",
+  // turning proprietary experience into public demos
+};
+```
+
+---
 
  
 # ABOUT ME
