@@ -39,15 +39,15 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 
 #### Dr.AI – AP Child Health & Family Welfare AI Assistant
 
-•	Architected and deployed a production-grade multilingual AI voice assistant (English/Hindi/Telugu) serving 500K+ citizens, reducing manual workload by 50% and improving health service accessibility by 40%
-
-•	Engineered a Retrieval-Augmented Generation (RAG) system using IndicSBERT embeddings + FAISS vector database, achieving 92% accuracy in medical query responses with <2s latency
-
-•	Integrated GCP Speech-to-Text and Text-to-Speech APIs with custom acoustic models, reducing transcription error rates by 35% for Indian language accents
-
-•	Built high-performance FastAPI microservices handling 10K+ daily requests with 99.7% uptime, implementing caching and async processing for scalability
-
-•	Automated patient registration and medical receipt generation (PDF), processing 2,000+ daily transactions and eliminating 15 hours/week of manual data entry
+       •	Architected and deployed a production-grade multilingual AI voice assistant (English/Hindi/Telugu) serving 500K+ citizens, reducing manual workload by 50% and improving health service accessibility by 40%
+       
+       •	Engineered a Retrieval-Augmented Generation (RAG) system using IndicSBERT embeddings + FAISS vector database, achieving 92% accuracy in medical query responses with <2s latency
+       
+       •	Integrated GCP Speech-to-Text and Text-to-Speech APIs with custom acoustic models, reducing transcription error rates by 35% for Indian language accents
+       
+       •	Built high-performance FastAPI microservices handling 10K+ daily requests with 99.7% uptime, implementing caching and async processing for scalability
+       
+       •	Automated patient registration and medical receipt generation (PDF), processing 2,000+ daily transactions and eliminating 15 hours/week of manual data entry
 
 #### MEPMA Government Data Analysis AI Assistant
 
