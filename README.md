@@ -51,11 +51,11 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 
 #### MEPMA Government Data Analysis AI Assistant
 
-•	Developed an enterprise Natural Language to SQL (NL2SQL) system enabling non-technical government officials to query complex databases using natural language, reducing report generation time from 4 hours to 5 minutes
-
-•	Implemented hybrid LLM approach (Gemini 1.5 + Mistral Codestral) for intelligent query parsing and SQL generation, achieving 88% accuracy on complex multi-table joins
-
-•	Designed voice-enabled analytics interface with real-time data visualization, improving data accessibility for 200+ department officials and accelerating decision-making cycles by 60%
+       •	Developed an enterprise Natural Language to SQL (NL2SQL) system enabling non-technical government officials to query complex databases using natural language, reducing report generation time from 4 hours to 5 minutes
+       
+       •	Implemented hybrid LLM approach (Gemini 1.5 + Mistral Codestral) for intelligent query parsing and SQL generation, achieving 88% accuracy on complex multi-table joins
+       
+       •	Designed voice-enabled analytics interface with real-time data visualization, improving data accessibility for 200+ department officials and accelerating decision-making cycles by 60%
 
 
 ### Machine Learning Engineer / Software Engineer 
@@ -64,47 +64,47 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 
 #### Project: Intelligent Query Response System (90% Accuracy, 95% User Satisfaction)
 
-Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
-
-Processed PDF manuals, embedded text in vector databases, and implemented image retrieval for contextual responses.
+       * Developed an RAG-based chatbot for technical query resolution using LangChain and Streamlit.
+       
+       * Processed PDF manuals, embedded text in vector databases, and implemented image retrieval for contextual responses.
 
 #### Project: Customer Call Audio Analyzer
 
-Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone, communication skills, and customer satisfaction.
-
-Provided actionable insights for optimizing agent-client interactions and improving customer experience.
+       * Built an AI-powered voice analysis tool using GCP Vertex AI to assess agent tone, communication skills, and customer satisfaction.
+       
+       * Provided actionable insights for optimizing agent-client interactions and improving customer experience.
 
 ### Junior Data Scientist 
 
 #### SocialTek AI ML Business Solutions Pvt Ltd - Sep 2021 – Oct 2023
 
-•	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
-
-•	Applied traditional machine learning algorithms for various business problems, focusing on data-driven decision-making.
-
-•	Worked on NLP tasks such as entity recognition and sentiment analysis, leveraging deep learning techniques.
-
-•	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
+      •	Conducted extensive EDA, feature engineering, and data cleaning to extract meaningful insights and improve model performance.
+      
+      •	Applied traditional machine learning algorithms for various business problems, focusing on data-driven decision-making.
+      
+      •	Worked on NLP tasks such as entity recognition and sentiment analysis, leveraging deep learning techniques.
+      
+      •	Collaborated with teams to enhance data solutions and stayed updated with the latest advancements in AI/ML through self-driven projects.
 
 ### Desktop Support Engineer – IT 
 
 #### Apollo Hospitals Enterprise Limited (Under UPHC, Govt. of Andhra Pradesh) - Jan 2020 – Aug 2021
 
-•	Collected, processed, and analysed healthcare data for cluster-wise reporting. 
-
-•	Prepared and managed Excel-based reports for data-driven decision-making. 
-
-•	Entered and maintained government health records, ensuring data accuracy. 
-
-•	Supervised COVID-19 data collection and vaccination progress tracking. 
-
-•	Provided actionable insights to higher authorities to enhance vaccination coverage.
-
-•	Provided technical support for hardware, software, and network-related issues in healthcare facilities. 
-
-•	Installed, configured, and maintained IT infrastructure to ensure seamless hospital operations.
-
-•	Assisted in IT asset management and user training to enhance operational efficiency.
+      •	Collected, processed, and analysed healthcare data for cluster-wise reporting. 
+      
+      •	Prepared and managed Excel-based reports for data-driven decision-making. 
+      
+      •	Entered and maintained government health records, ensuring data accuracy. 
+      
+      •	Supervised COVID-19 data collection and vaccination progress tracking. 
+      
+      •	Provided actionable insights to higher authorities to enhance vaccination coverage.
+      
+      •	Provided technical support for hardware, software, and network-related issues in healthcare facilities. 
+      
+      •	Installed, configured, and maintained IT infrastructure to ensure seamless hospital operations.
+      
+      •	Assisted in IT asset management and user training to enhance operational efficiency.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&weight=50&pause=1000&color=393782&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills)](https://git.io/typing-svg)
