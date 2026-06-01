@@ -15,12 +15,14 @@
 ## 🧬 About Me
  
 ![image](https://media.licdn.com/dms/image/v2/D5603AQFqhvW3s5XOXQ/profile-displayphoto-scale_100_100/B56Zu1zCM0JoAg-/0/1768281614049?e=1780531200&v=beta&t=EBMujFbx5Hh-foVk-khyvsybyCL2HjiMrggX7CsYBKk)
-# MUNGI VENKATESh
+
+# MUNGI VENKATESH
+
 ## AiML Engineer (Gen Ai) 
 
 📧 Email: vmentanglement@gmail.com
 
-📍 Location: Hyderabad, Telengana, India
+📍 Location: Amaravati, Andhra Pradesh, India
 
 📞 Phone: +91 9676079392
 
@@ -46,7 +48,8 @@ Results-driven GenAI Engineer with 3.9 years of experience building and deployin
 •	Built high-performance FastAPI microservices handling 10K+ daily requests with 99.7% uptime, implementing caching and async processing for scalability
 
 •	Automated patient registration and medical receipt generation (PDF), processing 2,000+ daily transactions and eliminating 15 hours/week of manual data entry
-MEPMA Government Data Analysis AI Assistant
+
+#### MEPMA Government Data Analysis AI Assistant
 
 •	Developed an enterprise Natural Language to SQL (NL2SQL) system enabling non-technical government officials to query complex databases using natural language, reducing report generation time from 4 hours to 5 minutes
 
